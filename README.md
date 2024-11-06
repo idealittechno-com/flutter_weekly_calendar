@@ -3,7 +3,7 @@
 A simple and lightweight weekly calendar view with extensive customization options.
 
 ## Preview:
-![prev](https://github.com/IdealITTechno/flutter_weekly_calendar/blob/main/media/prev.gif)
+![prev](https://github.com/idealittechno-com/flutter_weekly_calendar/blob/main/media/prev.gif)
 
 ## Installation
 
