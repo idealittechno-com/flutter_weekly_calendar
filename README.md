@@ -12,7 +12,7 @@ A simple and lightweight weekly calendar view with extensive customization optio
     flutter:
       sdk: flutter
 
-    flutter_reels_viewer: ^1.0.0
+    flutter_weekly_calendar: ^0.0.1
 ```
 
 ## Usage
